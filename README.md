@@ -1,7 +1,6 @@
 ### Hi there,I'm Arushi. 👋
 
-- 🔭 I’m currently learning DSA.
-- 🌱 I’m interested in web development.
-- 👯 I’m looking to collaborate on youtube.
+- 🔭 I’m currently learning Web Development.
+- 🌱 I’m interested in Cloud Computing.
 - 📫 How to reach me: via linkedin (arushi gupta)
-- ⚡ I love doing painting,sketching and reading spacetime novels.
+- ⚡ I love doing painting, dancing and reading cosmos genre novels.
