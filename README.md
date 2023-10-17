@@ -1,6 +1,6 @@
-### Hi there,I'm Arushi. 👋
+### Hi there,I'm Arushi Gupta. 👋
 
-- 🔭 I’m currently learning Web Development.
-- 🌱 I’m interested in Cloud Computing.
-- 📫 How to reach me: via linkedin (arushi gupta)
-- ⚡ I love doing painting, dancing and reading cosmos genre novels.
+- 🔭 I’m currently learning Data Science.
+- 🌱 Ask me about Web Development.
+- 📫 How to reach me: guptaarushi1004@gmail.com
+- ⚡ I love doing painting, dancing and reading cosmic genre novels.
